@@ -1,0 +1,555 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V3.1.0.0 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="Canal FX (México)">
+    <display-name lang="es">FX MX FHD</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal FX (Centro)">
+    <display-name lang="es">Cine TV: FX Full HD (ARG)(Dual Audio)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <channel id="Canal Fox Channel (Argentina)">
+    <display-name lang="es">Fox Channel Full HD (CO)</display-name>
+    <url>http://www.gatotv.com</url>
+  </channel>
+  <programme start="20210128004600 +0100" stop="20210128024700 +0100" channel="Canal FX (México)">
+    <title lang="es">Comando especial 2</title>
+  </programme>
+  <programme start="20210128024700 +0100" stop="20210128050000 +0100" channel="Canal FX (México)">
+    <title lang="es">Loco por Mary</title>
+  </programme>
+  <programme start="20210128050000 +0100" stop="20210128065100 +0100" channel="Canal FX (México)">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210128065100 +0100" stop="20210128082300 +0100" channel="Canal FX (México)">
+    <title lang="es">Un Lugar en Silencio</title>
+  </programme>
+  <programme start="20210128082300 +0100" stop="20210128084700 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128084700 +0100" stop="20210128090800 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128090800 +0100" stop="20210128092900 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128092900 +0100" stop="20210128095300 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128095300 +0100" stop="20210128101400 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128101400 +0100" stop="20210128110100 +0100" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210128110100 +0100" stop="20210128114600 +0100" channel="Canal FX (México)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210128114600 +0100" stop="20210128122600 +0100" channel="Canal FX (México)">
+    <title lang="es">Heathers</title>
+  </programme>
+  <programme start="20210128122600 +0100" stop="20210128131300 +0100" channel="Canal FX (México)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210128131300 +0100" stop="20210128140000 +0100" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210128140000 +0100" stop="20210128161300 +0100" channel="Canal FX (México)">
+    <title lang="es">Carreras clandestinas</title>
+  </programme>
+  <programme start="20210128161300 +0100" stop="20210128170000 +0100" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210128170000 +0100" stop="20210128174600 +0100" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210128174600 +0100" stop="20210128183800 +0100" channel="Canal FX (México)">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210128183800 +0100" stop="20210128192900 +0100" channel="Canal FX (México)">
+    <title lang="es">Legion</title>
+  </programme>
+  <programme start="20210128192900 +0100" stop="20210128195100 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128195100 +0100" stop="20210128201300 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128201300 +0100" stop="20210128203700 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210128203700 +0100" stop="20210128210000 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210128210000 +0100" stop="20210128214900 +0100" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210128214900 +0100" stop="20210128223500 +0100" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210128223500 +0100" stop="20210128225900 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128225900 +0100" stop="20210128232200 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128232200 +0100" stop="20210128234800 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210128234800 +0100" stop="20210129000900 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129000900 +0100" stop="20210129012500 +0100" channel="Canal FX (México)">
+    <title lang="es">Action Point</title>
+  </programme>
+  <programme start="20210129012500 +0100" stop="20210129032000 +0100" channel="Canal FX (México)">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210129032000 +0100" stop="20210129050000 +0100" channel="Canal FX (México)">
+    <title lang="es">Vuelo Nocturno</title>
+  </programme>
+  <programme start="20210129050000 +0100" stop="20210129065000 +0100" channel="Canal FX (México)">
+    <title lang="es">Hombres de Negro</title>
+  </programme>
+  <programme start="20210129065000 +0100" stop="20210129083700 +0100" channel="Canal FX (México)">
+    <title lang="es">Círculo de mentiras</title>
+  </programme>
+  <programme start="20210129083700 +0100" stop="20210129090000 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129090000 +0100" stop="20210129092500 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129092500 +0100" stop="20210129095000 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129095000 +0100" stop="20210129102000 +0100" channel="Canal FX (México)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129102000 +0100" stop="20210129111500 +0100" channel="Canal FX (México)">
+    <title lang="es">Heathers</title>
+  </programme>
+  <programme start="20210129111500 +0100" stop="20210129121000 +0100" channel="Canal FX (México)">
+    <title lang="es">Heathers</title>
+  </programme>
+  <programme start="20210129121000 +0100" stop="20210129130300 +0100" channel="Canal FX (México)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210129130300 +0100" stop="20210129140000 +0100" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210129140000 +0100" stop="20210129160200 +0100" channel="Canal FX (México)">
+    <title lang="es">Niebla en Agosto</title>
+  </programme>
+  <programme start="20210129160200 +0100" stop="20210129164700 +0100" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210129164700 +0100" stop="20210129173000 +0100" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210129173000 +0100" stop="20210129175200 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210129175200 +0100" stop="20210129181600 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210129181600 +0100" stop="20210129184800 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129184800 +0100" stop="20210129191100 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129191100 +0100" stop="20210129195600 +0100" channel="Canal FX (México)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210129195600 +0100" stop="20210129204000 +0100" channel="Canal FX (México)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210129204000 +0100" stop="20210129210300 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210129210300 +0100" stop="20210129212600 +0100" channel="Canal FX (México)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210129212600 +0100" stop="20210129215900 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129215900 +0100" stop="20210129222200 +0100" channel="Canal FX (México)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129222200 +0100" stop="20210130001100 +0100" channel="Canal FX (México)">
+    <title lang="es">Vuelo Nocturno</title>
+  </programme>
+  <programme start="20210128005200 +0100" stop="20210128030000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Loco por Mary</title>
+  </programme>
+  <programme start="20210128030000 +0100" stop="20210128044700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210128044700 +0100" stop="20210128061600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Un Lugar en Silencio</title>
+  </programme>
+  <programme start="20210128061600 +0100" stop="20210128063700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128063700 +0100" stop="20210128065800 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128065800 +0100" stop="20210128071900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128071900 +0100" stop="20210128073900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128073900 +0100" stop="20210128080100 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128080100 +0100" stop="20210128082200 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210128082200 +0100" stop="20210128090600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210128090600 +0100" stop="20210128094800 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210128094800 +0100" stop="20210128102900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Heathers</title>
+  </programme>
+  <programme start="20210128102900 +0100" stop="20210128110900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210128110900 +0100" stop="20210128115400 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210128115400 +0100" stop="20210128123700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210128123700 +0100" stop="20210128130000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128130000 +0100" stop="20210128133000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128133000 +0100" stop="20210128140000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128140000 +0100" stop="20210128143000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128143000 +0100" stop="20210128150000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128150000 +0100" stop="20210128153000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128153000 +0100" stop="20210128160000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128160000 +0100" stop="20210128163000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128163000 +0100" stop="20210128170300 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210128170300 +0100" stop="20210128180000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210128180000 +0100" stop="20210128182300 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128182300 +0100" stop="20210128184700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128184700 +0100" stop="20210128191300 +0100" channel="Canal FX (Centro)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210128191300 +0100" stop="20210128193600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210128193600 +0100" stop="20210128202600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210128202600 +0100" stop="20210128211800 +0100" channel="Canal FX (Centro)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210128211800 +0100" stop="20210128214500 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128214500 +0100" stop="20210128220700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210128220700 +0100" stop="20210128233600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Action Point</title>
+  </programme>
+  <programme start="20210128233600 +0100" stop="20210129012900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Guerra de Papás 2</title>
+  </programme>
+  <programme start="20210129012900 +0100" stop="20210129030000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Vuelo Nocturno</title>
+  </programme>
+  <programme start="20210129030000 +0100" stop="20210129045000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Hombres de Negro</title>
+  </programme>
+  <programme start="20210129045000 +0100" stop="20210129064600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Círculo de mentiras</title>
+  </programme>
+  <programme start="20210129064600 +0100" stop="20210129071000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129071000 +0100" stop="20210129073700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129073700 +0100" stop="20210129080000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129080000 +0100" stop="20210129082200 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129082200 +0100" stop="20210129084400 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129084400 +0100" stop="20210129090600 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Padre de Familia</title>
+  </programme>
+  <programme start="20210129090600 +0100" stop="20210129092800 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Deadly Class</title>
+  </programme>
+  <programme start="20210129092800 +0100" stop="20210129101100 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Heathers</title>
+  </programme>
+  <programme start="20210129101100 +0100" stop="20210129105300 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Heathers</title>
+  </programme>
+  <programme start="20210129105300 +0100" stop="20210129113400 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210129113400 +0100" stop="20210129121700 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Run Coyote Run</title>
+  </programme>
+  <programme start="20210129121700 +0100" stop="20210129130000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210129130000 +0100" stop="20210129133000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129133000 +0100" stop="20210129140000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129140000 +0100" stop="20210129143000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129143000 +0100" stop="20210129150000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129150000 +0100" stop="20210129153000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129153000 +0100" stop="20210129160000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129160000 +0100" stop="20210129163000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129163000 +0100" stop="20210129170400 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Paid Program</title>
+  </programme>
+  <programme start="20210129170400 +0100" stop="20210129181400 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210129181400 +0100" stop="20210129184000 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Bob's Burgers</title>
+  </programme>
+  <programme start="20210129184000 +0100" stop="20210129190200 +0100" channel="Canal FX (Centro)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129190200 +0100" stop="20210129192800 +0100" channel="Canal FX (Centro)">
+    <title lang="es">American Dad</title>
+  </programme>
+  <programme start="20210129192800 +0100" stop="20210129201900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Stargate Atlantis</title>
+  </programme>
+  <programme start="20210129201900 +0100" stop="20210129210900 +0100" channel="Canal FX (Centro)">
+    <title lang="es">The Titan Games</title>
+  </programme>
+  <programme start="20210129210900 +0100" stop="20210129223800 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Vuelo Nocturno</title>
+  </programme>
+  <programme start="20210129223800 +0100" stop="20210130005300 +0100" channel="Canal FX (Centro)">
+    <title lang="es">Indiana Jones y el reino de la Calavera de Cristal</title>
+  </programme>
+  <programme start="20210128001800 +0100" stop="20210128004400 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128004400 +0100" stop="20210128010700 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128010700 +0100" stop="20210128013100 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128013100 +0100" stop="20210128020000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128020000 +0100" stop="20210128044200 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Maze Runner: La Cura Mortal</title>
+  </programme>
+  <programme start="20210128044200 +0100" stop="20210128051000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128051000 +0100" stop="20210128054000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128054000 +0100" stop="20210128074100 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los 33</title>
+  </programme>
+  <programme start="20210128074100 +0100" stop="20210128090800 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El código del miedo</title>
+  </programme>
+  <programme start="20210128090800 +0100" stop="20210128103800 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">La Torre Oscura</title>
+  </programme>
+  <programme start="20210128103800 +0100" stop="20210128110000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Bless This Mess</title>
+  </programme>
+  <programme start="20210128110000 +0100" stop="20210128113000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128113000 +0100" stop="20210128120000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128120000 +0100" stop="20210128123000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128123000 +0100" stop="20210128130000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128130000 +0100" stop="20210128133500 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128133500 +0100" stop="20210128133700 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210128133700 +0100" stop="20210128151900 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Cómo Entrenar a tu Dragón</title>
+  </programme>
+  <programme start="20210128151900 +0100" stop="20210128154300 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128154300 +0100" stop="20210128160700 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128160700 +0100" stop="20210128163100 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128163100 +0100" stop="20210128170200 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210128170200 +0100" stop="20210128173300 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210128173300 +0100" stop="20210128193400 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Una gran esperanza</title>
+  </programme>
+  <programme start="20210128193400 +0100" stop="20210128200000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128200000 +0100" stop="20210128202600 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210128202600 +0100" stop="20210128220600 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Shrek para siempre</title>
+  </programme>
+  <programme start="20210128220600 +0100" stop="20210128234000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson La Película</title>
+  </programme>
+  <programme start="20210128234000 +0100" stop="20210129000500 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129000500 +0100" stop="20210129003400 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129003400 +0100" stop="20210129010200 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129010200 +0100" stop="20210129013100 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129013100 +0100" stop="20210129020000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129020000 +0100" stop="20210129040100 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El Diablo Viste a la Moda</title>
+  </programme>
+  <programme start="20210129040100 +0100" stop="20210129043000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129043000 +0100" stop="20210129045600 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129045600 +0100" stop="20210129065800 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">En la cuerda floja</title>
+  </programme>
+  <programme start="20210129065800 +0100" stop="20210129082400 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Apuesta Máxima</title>
+  </programme>
+  <programme start="20210129082400 +0100" stop="20210129094600 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Hansel y Gretel: Cazadores de Brujas</title>
+  </programme>
+  <programme start="20210129094600 +0100" stop="20210129100500 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Bless This Mess</title>
+  </programme>
+  <programme start="20210129100500 +0100" stop="20210129110000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Cumbia ninja</title>
+  </programme>
+  <programme start="20210129110000 +0100" stop="20210129113000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210129113000 +0100" stop="20210129120000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210129120000 +0100" stop="20210129123000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210129123000 +0100" stop="20210129130000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210129130000 +0100" stop="20210129133500 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210129133500 +0100" stop="20210129140000 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Programa Pagado</title>
+  </programme>
+  <programme start="20210129140000 +0100" stop="20210129153700 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Megamente</title>
+  </programme>
+  <programme start="20210129153700 +0100" stop="20210129155200 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">El libro de los dragones</title>
+  </programme>
+  <programme start="20210129155200 +0100" stop="20210129162200 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129162200 +0100" stop="20210129164800 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129164800 +0100" stop="20210129171700 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+  <programme start="20210129171700 +0100" stop="20210129174800 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210129174800 +0100" stop="20210129181800 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Will &amp; Grace</title>
+  </programme>
+  <programme start="20210129181800 +0100" stop="20210129195700 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Querida Eleanor</title>
+  </programme>
+  <programme start="20210129195700 +0100" stop="20210129220600 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Jumanji: En la Selva</title>
+  </programme>
+  <programme start="20210129220600 +0100" stop="20210129234300 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Hotel Transylvania 2</title>
+  </programme>
+  <programme start="20210129234300 +0100" stop="20210130000900 +0100" channel="Canal Fox Channel (Argentina)">
+    <title lang="es">Los Simpson</title>
+  </programme>
+</tv>
